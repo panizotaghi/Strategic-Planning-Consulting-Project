@@ -1,0 +1,15 @@
+stakeholder,power,interest,power_interest_quadrant,influence_circle,relationship_with_the_Company
+Board of directors and CEO,High,High,D (key players),Inner,"Set rules, leadership, policy, monitoring and evaluation; hold legal authority"
+Parent financial group (part-owner and main customer),High,High,D (key players),Inner,"Creates added value for both sides; intervenes in policy-making, monitoring and evaluation"
+Other shareholders,High,Low,C (high power - low interest),Middle,Provide financial resources and receive profit
+Customers,High,Low,C (high power - low interest),Middle,The Company meets their needs and earns revenue
+Creditors,High,Low,C (high power - low interest),Middle,Provide the financial resources the Company needs
+Capital-market regulators (securities and OTC exchange bodies),High,Low,C (high power - low interest),Outer,Rules and resolutions that affect the Company
+Employees,Low,High,B (high interest - low power),Middle,"Incentive system; aligning individual and organisational goals; staff benefit from the organisation"
+Competitors,Low,High,B (high interest - low power),Middle,Affect the Company's market share and the progress of the industry
+Media,Low,High,B (high interest - low power),Outer,Provide a platform for advertising and marketing
+Suppliers,Low,High,B (high interest - low power),Middle,Provide needed resources and earn profit from this
+Ministry of Information and Communications Technology,Low,Low,A (low power - low interest),Outer,Rules that affect the Company's operating framework
+Ministry of Economy,Low,Low,A (low power - low interest),Outer,Rules that affect the Company's operating framework
+Central bank,Low,Low,A (low power - low interest),Outer,Resolutions that affect the Company and its access to credit
+Government,Low,Low,A (low power - low interest),Outer,Laws that affect how the Company operates

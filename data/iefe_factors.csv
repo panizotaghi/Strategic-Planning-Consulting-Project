@@ -1,0 +1,104 @@
+id,type,factor,importance_0_10,status_0_4,weighted_score
+S1,Strength,Handles conflict well to advance goals,5,3,15
+S2,Strength,Integrated organisation; unit goals aligned with the overall goal,7,4,28
+S3,Strength,Drive to expand the organisation's boundaries,9,2,18
+S4,Strength,Ability to identify and attract needed expertise,8,2,16
+S5,Strength,Can evolve and offer new services as needs change,8,3,24
+S6,Strength,Can cover a large share of customer needs in its industry through diverse services,8,3,24
+S7,Strength,Open to change; constantly works to progress,8,3,24
+S8,Strength,Does not judge success by sales alone; uses several success measures,7,3,21
+S9,Strength,Can produce suitable action plans for its goals,7,3,21
+S10,Strength,Costs are known and do not deviate much from plan,6,4,24
+S11,Strength,Workable schedules and enough focus on organisational tasks,7,3,21
+S12,Strength,Plans for growth but does not miss opportunities,8,3,24
+S13,Strength,Clear responsibilities; work proceeds in an orderly way,7,3,21
+S14,Strength,Cares about people but does not let individual changes disrupt work,7,3,21
+S15,Strength,Staff are allowed to do a variety of activities,7,3,21
+S16,Strength,Everyone is expected to do what is needed,7,3,21
+S17,Strength,Management is focused on the organisation itself,7,3,21
+S18,Strength,Management knows its duties and tries to do them properly,7,3,21
+S19,Strength,Experienced and capable staff,7,2,14
+S20,Strength,Values its experienced and capable staff,7,3,21
+S21,Strength,Working to improve organisational systems,7,3,21
+S22,Strength,Attention to service quality and doing things right,8,4,32
+S23,Strength,Welcomes new ideas that support progress,9,3,27
+S24,Strength,Management is trying to define standard templates for the organisation,7,3,21
+S25,Strength,Not afraid of failure,8,3,24
+S26,Strength,CEO has a full grasp of the organisation's problems and works to fix them,8,3,24
+W1,Weakness,Shortage of specialist staff,8,1,8
+W2,Weakness,Turmoil caused by conflicts at the top,10,1,10
+W3,Weakness,No product owner on the client side,10,0,0
+W4,Weakness,Lack of order and proper project prioritisation,9,1,9
+W5,Weakness,Lack of office space,7,2,14
+W6,Weakness,Management tries to exploit every available opportunity,7,2,14
+W7,Weakness,Capital-allocation crisis when pursuing opportunities,6,2,12
+W8,Weakness,Hard for management to control budget-versus-cost variance,6,2,12
+W9,Weakness,Authorities and job descriptions do not say how tasks should be done,6,1,6
+W10,Weakness,Number and length of meetings has grown,6,2,12
+W11,Weakness,Individual goals conflict significantly with organisational goals,6,1,6
+W12,Weakness,Still lacks effective systems and templates,6,1,6
+W13,Weakness,"Systems, policies and templates are not fully followed",5,2,10
+W14,Weakness,Gap between forecasts and actual performance,6,2,12
+W15,Weakness,No effective reward and pay system,6,2,12
+W16,Weakness,Founder does not trust managers enough,8,1,8
+W17,Weakness,Managers lack sufficient authority,8,1,8
+W18,Weakness,Visible conflict between the board and the founder,8,1,8
+W19,Weakness,No expert groups for decision-making,7,1,7
+W20,Weakness,Failure is treated as normal,5,2,10
+W21,Weakness,No training system for staff,7,1,7
+W22,Weakness,Insufficient budget for management training,5,2,10
+W23,Weakness,No established market share,8,2,16
+W24,Weakness,Poor balance between quality and quantity,5,2,10
+W25,Weakness,Focus is spread across many areas (not structurally),5,2,10
+W26,Weakness,Insufficient attention to market needs and marketing,5,2,10
+W27,Weakness,Frequent changes leave too little time to bring order,5,2,10
+W28,Weakness,Staff evaluation is machine-oriented (purely quantitative),5,2,10
+W29,Weakness,Heavy dependence on the parent financial group limits the scope of activities,8,0,0
+W30,Weakness,Changing products prevent stable processes,5,2,10
+W31,Weakness,Programmers lack a sense of belonging,5,1,5
+W32,Weakness,Some processes cannot be forecast because of frequent change,4,2,8
+O1,Opportunity,Rivalry among existing competitors can grow the market and the industry,6,2,12
+O2,Opportunity,High switching costs for customers,10,4,40
+O3,Opportunity,Customers cannot integrate backward,8,4,32
+O4,Opportunity,Few key suppliers,2,4,8
+O5,Opportunity,Inputs are easy to substitute,2,4,8
+O6,Opportunity,Suppliers have little effect on product quality,4,4,16
+O7,Opportunity,Low cost for the Company to switch suppliers,6,4,24
+O8,Opportunity,Hard for suppliers to integrate forward,4,4,16
+O9,Opportunity,Product differentiation matters a lot,4,4,16
+O10,Opportunity,New entrants have little access to distribution channels,9,3,27
+O11,Opportunity,New entrants have little access to the required know-how,4,4,16
+O12,Opportunity,Substitute products are not a major risk,4,4,16
+O13,Opportunity,The Company could work better under deregulation,9,1,9
+O14,Opportunity,De-monopolisation could widen the Company's scope,9,2,18
+O15,Opportunity,Growth in any economic indicator helps the Company,4,2,8
+O16,Opportunity,Better communications infrastructure supports the Company's growth,7,1,7
+O17,Opportunity,Easy public access to the stock exchange and OTC market,5,4,20
+O18,Opportunity,Sound banking systems can make work easier for the Company and its customers,7,3,21
+O19,Opportunity,Growing urban population and financial literacy increase use of the Company's services,9,3,27
+O20,Opportunity,Iran's location gives access to diverse markets,5,1,5
+O21,Opportunity,Growing culture of internet and technology use,7,4,28
+O22,Opportunity,Adequate level of cybersecurity in the country,4,4,16
+O23,Opportunity,Copyright and intellectual-property laws,1,4,4
+O24,Opportunity,Need for technology in national development,7,2,14
+O25,Opportunity,A stable key account (anchor customer) for the Company's services,9,3,27
+O26,Opportunity,"The industry's sensitivity to new, innovative output",8,3,24
+O27,Opportunity,Ability to enter foreign markets through constructive competition,4,1,4
+T1,Threat,Strong influence of the parent financial group on the Company,9,1,9
+T2,Threat,"The industry's strong sensitivity to new, innovative output",7,3,21
+T3,Threat,Sudden rule changes by influential agencies and ministries,1,3,3
+T4,Threat,Iran's unfavourable geopolitical position,6,1,6
+T5,Threat,High inflation and falling purchasing power,6,2,12
+T6,Threat,Weak infrastructure in the country,3,2,6
+T7,Threat,Decline in the country's financial indicators and capacity,5,1,5
+T8,Threat,Competitors' strong desire to increase market penetration,7,3,21
+T9,Threat,High importance of brand name,6,3,18
+T10,Threat,Strong effect of restrictive government rules on the Company,6,2,12
+T11,Threat,High importance of creditors' funds,8,1,8
+T12,Threat,Small number of customers,6,3,18
+T13,Threat,Financial dependence on customers,4,3,12
+T14,Threat,Customers are well informed about the product,6,4,24
+T15,Threat,Wide variety of products on the market,5,2,10
+T16,Threat,High rivalry among competitors,7,2,14
+T17,Threat,Relative increase in competitors' capacity,4,3,12
+T18,Threat,Limited freedom of action in selling,10,2,20

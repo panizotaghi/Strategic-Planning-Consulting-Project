@@ -1,0 +1,25 @@
+item,characteristic,ceo,product_manager,ui_designer,front_end_developer,back_end_developer,weighted_average_as_reported,classification_in_report
+1,Vision (time horizon),105,105,140,98,84,148.4,Neutral
+2,Control,96,84,0,80,32,94.4,Weakness
+3,Conflict,144,136,126,78,144,181.6,Strength
+4,Evaluation,84,144,60,51,78,129,Weakness
+5,Income,50,15,4,56,2,38.4,Weakness
+6,Process-event,90,128,20,40,50,109.2,Weakness
+7,Wholeness and integration,153,171,200,90,78,169.33,Strength
+8,Sense of belonging,50,15,50,12,55,49.4,Weakness
+9,Activity and planning,84,144,60,33,105,130.8,Weakness
+10,Boundaries,200,136,25,50,105,170.4,Strength
+11,Event-start (equifinality),162,144,50,55,78,159,Neutral
+12,Decision-making and effect,112,50,0,60,98,96.4,Weakness
+13,Forces (synergy),90,84,3,68,144,112.6,Weakness
+14,Division of labour,136,112,60,96,55,141.4,Neutral
+15,Correction of deviation (feedback),136,162,40,60,136,166.4,Neutral
+16,Command,200,112,50,112,50,167.2,Neutral
+17,Equilibrium,90,112,16,50,66,107.2,Weakness
+18,Delegation,119,136,21,91,112,146.8,Neutral
+19,Self-knowledge,50,78,96,64,105,104.2,Weakness
+20,Change,112,112,180,60,144,166.4,Neutral
+21,Specialisation,144,171,162,68,119,195.8,Strength
+22,Mobility (proactivity),144,136,60,68,90,155.6,Neutral
+23,Methodology,144,136,24,60,112,151.2,Neutral
+24,Interaction,162,90,55,72,84,143,Neutral

@@ -1,0 +1,39 @@
+force,question_no,question,score
+Rivalry among existing competitors,1,Level of fixed costs in the industry,2
+Rivalry among existing competitors,2,Market growth rate in the industry,5
+Rivalry among existing competitors,3,Current intensity of rivalry,4
+Rivalry among existing competitors,4,Product diversity among competitors,3
+Rivalry among existing competitors,5,Relative increase in competitors' capacity,4
+Rivalry among existing competitors,6,Freedom of action in selling,2
+Bargaining power of buyers,1,Number and volume of potential and actual customers,2
+Bargaining power of buyers,2,Customer's cost of buying from another producer (switching cost),4
+Bargaining power of buyers,3,Availability of substitutes that could draw customers away,2
+Bargaining power of buyers,4,How standard and undifferentiated our products are,1
+Bargaining power of buyers,5,Company's financial dependence on customer purchases,5
+Bargaining power of buyers,6,"Buyers' information on quality, price and features",4
+Bargaining power of buyers,7,Customers' ability to integrate backward,0
+Bargaining power of suppliers,1,Number of key suppliers and creditors,0
+Bargaining power of suppliers,2,Substitutability of suppliers' inputs,5
+Bargaining power of suppliers,3,Supplier ability to change technology so other suppliers no longer fit,0
+Bargaining power of suppliers,4,Likelihood that suppliers become serious competitors,0
+Bargaining power of suppliers,5,Suppliers' role in the quality of output,1
+Bargaining power of suppliers,6,Degree of supplier monopoly,0
+Bargaining power of suppliers,7,Cost of switching suppliers,0
+Bargaining power of suppliers,8,Importance of the Company to suppliers (difficulty of finding other customers),0
+Bargaining power of suppliers,9,How essential suppliers' products are for success and survival,0
+Bargaining power of suppliers,10,How essential creditors' funds are for success and survival,4
+Bargaining power of suppliers,11,Suppliers' ability to block the Company's forward integration,0
+Barriers to entry,1,Economies of scale as a barrier to new entrants,3
+Barriers to entry,2,Differentiation as a barrier to new entrants,5
+Barriers to entry,3,Importance of brand name in the industry,4
+Barriers to entry,4,Cost to current customers of switching to a new entrant,5
+Barriers to entry,5,New entrants' access to distribution channels,1
+Barriers to entry,6,New entrants' access to technology and know-how,2
+Barriers to entry,7,New entrants' access to essential inputs,4
+Barriers to entry,8,Initial capital needed to enter at economic scale,3
+Barriers to entry,9,Government's ability to block entry through restrictive rules,5
+Threat of substitutes,1,Risk of substitutes entering,1
+Threat of substitutes,2,Customer's cost of switching to a substitute,5
+Threat of substitutes,3,Substitutes' profitability and market-penetration potential,1
+Threat of substitutes,4,Trend of falling prices and improving quality of substitutes,1
+Threat of substitutes,5,Competitors' desire to increase penetration or capacity,4

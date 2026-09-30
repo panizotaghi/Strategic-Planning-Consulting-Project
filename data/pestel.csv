@@ -1,0 +1,97 @@
+category,sub_group,factor,status,impact_score
+Political,Foreign policy,Country's international relations and standing,Poor but improving,1
+Political,Foreign policy,Relations with Muslim and regional countries,Unfavourable,1
+Political,Foreign policy,Level of international and regional disputes,Poor,1
+Political,Foreign policy,Ability to cope with sanctions,Improving,1
+Political,Foreign policy,Foreign-policy crises,Poor,-2
+Political,Foreign policy,Relations with border communities of neighbouring countries,Good,0
+Political,Foreign policy,Country's defence capability in the political arena,Unfavourable,0
+Political,Foreign policy,Terrorism in the region,Poor,0
+Political,Foreign policy,War and unrest in the region,Poor,0
+Political,Foreign policy,Regional and bilateral trade agreements,Improving,2
+Political,Foreign policy,Process of joining the WTO,Improving,2
+Political,Domestic policy,Deregulation trend,Improving,4
+Political,Domestic policy,De-monopolisation and privatisation trend,Improving,4
+Political,Domestic policy,Expansion of democracy and individual freedoms,Poor but improving,3
+Political,Domestic policy,Government transparency,Poor,1
+Political,Domestic policy,Changes in government and state bodies,Unfavourable,1
+Political,Domestic policy,Public commitment to elections,Unfavourable,0
+Political,Domestic policy,Orientation of media and political parties,Unfavourable,1
+Political,Domestic policy,Conflicts between parties and groups,Unfavourable,0
+Economic,Economic indicators,GNP and GDP,Unfavourable,3
+Economic,Economic indicators,Per-capita income and economic growth,Low,4
+Economic,Economic indicators,Inflation and budget deficit,Poor,-1
+Economic,Economic indicators,"Savings, assets and debts",Unfavourable,2
+Economic,Economic indicators,"Foreign-exchange use, earnings and savings",Unfavourable,3
+Economic,Economic indicators,Domestic and foreign investment,Improving,3
+Economic,"Monetary, fiscal and income factors",Government spending and budget,Rising,-1
+Economic,"Monetary, fiscal and income factors",Exchange and interest rates,Unfavourable,1
+Economic,"Monetary, fiscal and income factors",Export and import potential,Poor,0
+Economic,"Monetary, fiscal and income factors",Taxes,Rising,0
+Economic,Infrastructure,Communications,Improving,3
+Economic,Infrastructure,"Sea, air and land transport infrastructure",Unfavourable,0
+Economic,Infrastructure,Worn-out infrastructure,Unfavourable,-2
+Economic,Infrastructure,Risk and crisis management,Poor,-1
+Economic,Credit,Banking system,Improving,4
+Economic,Credit,Cost of access to capital and the stock-market mechanism,Favourable,5
+Socio-cultural,Cultural and social trends,Urban and rural population and its distribution,Unfavourable,1
+Socio-cultural,Cultural and social trends,Growth of cultural and social crises,Poor,0
+Socio-cultural,Cultural and social trends,Customs and traditions,Good,0
+Socio-cultural,Cultural and social trends,"Age distribution; poverty, homelessness and addiction",Unfavourable,-1
+Socio-cultural,Cultural and social trends,Migration to cities,High and unfavourable,2
+Socio-cultural,Cultural and social trends,Employment and unemployment,Unfavourable,-1
+Socio-cultural,Cultural and social trends,Welfare-organisation policies,Unfavourable,0
+Socio-cultural,Cultural and social trends,Consumption patterns and purchasing power,Poor and worsening,3
+Socio-cultural,Cultural and social trends,Attention to tourism,Improving,0
+Socio-cultural,Health and education,Hospitals and medical centres,Good,0
+Socio-cultural,Health and education,Vaccination and immunisation,Good,0
+Socio-cultural,Health and education,Quality of education and school development,Good,0
+Socio-cultural,Health and education,Cost of education,Good,0
+Socio-cultural,Crime,Murder and theft rates,Good,0
+Socio-cultural,Crime,Judiciary policies,Unfavourable,-1
+Socio-cultural,Geography and geopolitics,Access to consumer markets,Improving,4
+Socio-cultural,Geography and geopolitics,Natural resources,Good,0
+Socio-cultural,Geography and geopolitics,Geopolitical position,Unfavourable,-3
+Technological,Technology trends,Domestic technology level versus world average,Medium,4
+Technological,Technology trends,Technology complexity at different levels,Improving,4
+Technological,Technology trends,Automation of production processes,Poor but improving,0
+Technological,Technology trends,Return on technology investment in the industry,Favourable,3
+Technological,Technology trends,Value added of technology investment in the industry,Favourable,3
+Technological,Technology trends,Export potential of specialised industry software,Improving,4
+Technological,Technology trends,Technology transfer in the industry,Poor,
+Technological,Information and communication technology,Internet use in the industry,Unfavourable but improving,5
+Technological,Information and communication technology,E-commerce use in the industry,Improving,5
+Technological,Information and communication technology,E-marketing use in the industry,Improving,5
+Technological,New industries and technologies,Effect of nano- and biotechnology on the industry,Improving,0
+Technological,New industries and technologies,Effect of the country's nuclear-energy situation on the industry,Favourable,0
+Technological,New industries and technologies,Management information systems and information security,Unfavourable but improving,5
+Technological,New industries and technologies,Copyright and intellectual property,Poor,5
+Legal,Legal,Articles of association and various by-laws,Mandatory and unfavourable,-4
+Legal,Legal,Rules and resolutions of the general assembly and owners,Good,3
+Legal,Legal,"Sectoral, cross-sectoral and provincial development documents",Good,0
+Legal,Legal,National development-plan policies,Unfavourable,5
+Legal,Legal,Cabinet rules and resolutions,Unfavourable,2
+Legal,Legal,Rules of the national planning and budget organisation,Improving,1
+Legal,Legal,Free-trade laws,Weak,4
+Legal,Legal,Investment and financial laws,Improving,5
+Legal,Legal,E-commerce and e-marketing laws,Favourable,4
+Legal,Legal,Labour law,Favourable,-1
+Legal,Legal,Other laws and resolutions of legislative bodies,Unfavourable,-3
+Environmental,Air,Air quality and pollution,Poor,0
+Environmental,Air,"Climate (temperature, humidity, greenhouse gases)",Poor,0
+Environmental,Water,Quality of seas and rivers,Poor,0
+Environmental,Water,Water consumption in the country,Poor,0
+Environmental,Water,Supply and demand management,Unfavourable,0
+Environmental,Water,Integrated water-resource planning,Poor but improving,0
+Environmental,Water,Access to surface and ground water,Poor,0
+Environmental,Water,Water supply and sewage network development,Improving,0
+Environmental,Water,"Infrastructure (dams, sewage, etc.)",Poor,0
+Environmental,Land,Environmental impact assessment,Improving,0
+Environmental,Land,Environmental rules and regulations,Good,0
+Environmental,Land,Urban and rural development,Improving,2
+Environmental,Land,Recycling and landfill,Improving,0
+Environmental,Energy,Fossil fuels,Unfavourable,0
+Environmental,Energy,Cost of electricity supply,Unfavourable,1
+Environmental,Energy,Energy management,Improving,-1
+Environmental,Energy,Energy consumption and prices,Unfavourable,-1
+Environmental,Natural disasters,"Likelihood of floods, earthquakes, etc.",Unfavourable,-1
